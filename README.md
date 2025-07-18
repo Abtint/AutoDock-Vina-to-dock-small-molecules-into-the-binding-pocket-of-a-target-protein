@@ -61,6 +61,9 @@ nano run_docking.sh   # or any text editor
 ## License 
 Released under the MIT License. 
 
+## Citation
+https://github.com/Abtint/AutoDock-Vina-to-dock-small-molecules-into-the-binding-pocket-of-a-target-protein
+
 
 
 
