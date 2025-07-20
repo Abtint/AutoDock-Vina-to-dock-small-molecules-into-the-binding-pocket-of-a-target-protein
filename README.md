@@ -1,4 +1,4 @@
-# General molecular docking workflow
+# Molecular Docking Workflow
 
 This repository provides **`run_docking.sh`**, a Bash script that sets up and runs **AutoDock Vina** for any protein–ligand project.  
 All key parameters live at the top of the script so you can adapt the workflow to your own target and library.
@@ -15,6 +15,12 @@ All key parameters live at the top of the script so you can adapt the workflow t
 | `notebooks/`     | Jupyter notebooks for post-docking analysis |
 
 You can change this layout. The script uses environment variables at the top that point to each folder.
+
+---
+
+## Scripts in this repo
+
+run_docking.sh
 
 ---
 
